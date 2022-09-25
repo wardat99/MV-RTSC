@@ -14,17 +14,12 @@ function [Plabel,Timecost] = MVRTSC(A,mu,lambda,numClust)
 % Timecost        scalar, the time cost for each attempt.
 %
 %
-% required:
-%  [1] wshrinkObj function 
-%
-%   Xie, Y., Tao, D., Zhang, W., Liu, Y., Zhang, L., & Qu, Y. (2018). 
-% "On unifying multi-view self-representations for clustering by tensor multi-rank minimization."
-%  
-%
-%  [2] TTensor Toolbox for MATLAB: <a href="https://www.tensortoolbox.org">www.tensortoolbox.org</a>
+% required external files:
+%  [1] wshrinkObj function, "On unifying multi-view self-representations for clustering by tensor multi-rank minimization."
+%  [2] Tensor Toolbox for MATLAB: <a href="https://www.tensortoolbox.org">www.tensortoolbox.org</a>
 
 %%%%
-% Copyright (C)   <Esraa Al-Sharoa>
+% Copyright (C)   <Esraa Al-Sharoa & Mohammad Al-Wardat>
 % 
 % 
 %%%%
