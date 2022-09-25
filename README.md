@@ -10,7 +10,7 @@ The MATLAB code for MV-RTSC needs some toolboxes:
 [1] Tensor decomposition, Xie, Y., Tao, D., Zhang, W., Liu, Y., Zhang, L., & Qu, Y. (2018). 
 "On unifying multi-view self-representations for clustering by tensor multi-rank minimization."
 
-[2] TTensor Toolbox for MATLAB: <a href="https://www.tensortoolbox.org">www.tensortoolbox.org</a>
+[2] Tensor Toolbox for MATLAB: <a href="https://www.tensortoolbox.org">www.tensortoolbox.org</a>
 
 # Data set:
 All datasets used in our paper are available at Google Drive. 
