@@ -1,7 +1,8 @@
 # MV-RTSC
-The paper is under review
 
-Code for the paper "Multi-View Robust Tensor-based Subspace Clustering".
+The source code for our paper "Multi-View Robust Tensor-based Subspace Clustering".
+
+available at: https://ieeexplore.ieee.org/document/9999185
 
 
 # Required toolboxes:
@@ -16,3 +17,6 @@ The MATLAB code for MV-RTSC needs some toolboxes:
 All datasets used in our paper are available at Google Drive. 
 Each dataset is a mat file containing 2 variables fea or data (i.e., a MATLAB cell of features) and gt (i.e., ground truth label), 
 except the file flower17.mat which contains a cell of distance matrices and ground truth since features are unavailable. https://drive.google.com/drive/folders/1T8AITuQZCbCB52PELprIVb75d4-6hi20
+
+# Citation:
+
