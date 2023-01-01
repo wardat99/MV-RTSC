@@ -20,3 +20,12 @@ except the file flower17.mat which contains a cell of distance matrices and grou
 
 # Citation:
 
+@ARTICLE{9999185,
+  author={Al-Sharoa, Esraa M. and Al-Wardat, Mohammad A.},
+  journal={IEEE Access}, 
+  title={Multi-View Robust Tensor-Based Subspace Clustering}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={134292-134306},
+  doi={10.1109/ACCESS.2022.3232285}}
