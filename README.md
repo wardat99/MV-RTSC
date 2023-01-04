@@ -20,6 +20,8 @@ except the file flower17.mat which contains a cell of distance matrices and grou
 
 # Citation:
 
+If you find this code helpful, please cite the paper as follows:
+
 ```
 @article{al2022multi,
   title={Multi-View Robust Tensor-Based Subspace Clustering},
